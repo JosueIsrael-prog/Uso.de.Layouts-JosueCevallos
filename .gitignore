@@ -1,7 +1,5 @@
-# Ignorar archivos temporales y de usuario
 .vs/
 bin/
 obj/
 
-# Incluir solo lo necesario
-!Proyecto/
+
